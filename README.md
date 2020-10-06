@@ -16,4 +16,4 @@ That's a little bit a pain in the ass, it was one on my first project with pytho
 Before / After 
 
 
-![picture](/Photo-OG/avangers.jpg)
+![picture](Photo-OG/avangers.jpg)
