@@ -14,7 +14,13 @@ That's a little bit a pain in the ass, it was one on my first project with pytho
 ### Let's see the result 
 
 Before / After 
-![Test Image 4](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-OG/avengers.jpg = 50x)
+
+![Test Image 1](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-OG/avengers.jpg)
+![Test Image 2](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-Final/avangersfinal.jpg)
 
 
+![Test Image 3](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-OG/my-hero-academia.jpg)
+![Test Image 4](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-Final/herofinal.jpg)
 
+![Test Image 5](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-OG/aurelie.jpg)
+![Test Image 6](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-Final/aurelie28.jpg)
