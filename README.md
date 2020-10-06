@@ -15,5 +15,8 @@ That's a little bit a pain in the ass, it was one on my first project with pytho
 
 Before / After 
 
+![Test Image 3](/Photo-OG/avangers.jpg)
+![Test Image 4](https://github.com/Hugodeladriere/Photomosaic-2017/blob/main/Photo-OG/avengers.jpg)
+
 
 ![picture](Photo-OG/avangers.jpg)
